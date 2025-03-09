@@ -72,7 +72,7 @@ You can use GitHub Codespaces to develop in this environment directly from your 
 
 This allows you to seamlessly develop and test your Frappe applications in a consistent environment across different devices.
 
-Final step will allways be - cd /frappe-bench so that you can run bench commands.
+Final step will allways be: "cd /frappe-bench" so that you can run bench commands.
 
 Tips - 
 Bench Build + Bench Migrate is your best friend when making changes.
