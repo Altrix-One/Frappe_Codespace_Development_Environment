@@ -71,3 +71,14 @@ You can use GitHub Codespaces to develop in this environment directly from your 
 5. Alternatively, you can open Visual Studio Code, click on the `Remote Explorer` icon in the Activity Bar, and connect to your Codespace from there.
 
 This allows you to seamlessly develop and test your Frappe applications in a consistent environment across different devices.
+
+Final step will allways be - cd /frappe-bench so that you can run bench commands.
+
+Tips - 
+Bench Build + Bench Migrate is your best friend when making changes.
+
+Bench get-app (app link or name) to pull and app
+Bench --site development.localhost install-app (app_name)
+
+
+
